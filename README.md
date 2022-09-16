@@ -1,4 +1,4 @@
-# Altay_II_LAMA_class
+# Altai_II_LAMA_class
 multiclass
 
 Прогнозирование статуса студента
